@@ -1,2 +1,2 @@
 # hello-world
-demo
+Sample c++ programs
